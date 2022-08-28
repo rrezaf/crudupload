@@ -1,0 +1,10 @@
+basic belajar
+User login ke aplikasi (ada pesan error jika gagal login)
+form crudupload untuk memasukan file pdf ke sistem (id barang, nama barang sama file pdf)
+hanya file pdf yang bisa dimasukan dengan ketentuan max size 25 mb (ada pesan error gagal upload dan sukses upload)
+form view data user hanya mencari file pdf yang diinginkan
+
+
+next step belajar improved
+session
+redirect setelah login berdasarkan privelege user
